@@ -1,0 +1,3 @@
+.header {
+    @apply grid content-center w-full h-12 grid-rows-1 p-2 bg-white shadow-sm lg:h-14 lg:p-3 z-50 gap-4;
+}
